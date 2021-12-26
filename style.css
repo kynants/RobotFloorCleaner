@@ -1,0 +1,12 @@
+body {
+  background-image: url("aditya-joshi-wG923J9naFQ-unsplash.jpg");
+}
+
+/*Floor cleaner will not move unless styling is applied inline rather than from imported stylesheet file*/
+/*#robot {*/
+/*  height: 15px;*/
+/*  width: 15px;*/
+/*  position: absolute;*/
+/*  left: 0;*/
+/*  top: 0;*/
+/*}*/
